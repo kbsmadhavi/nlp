@@ -1,0 +1,167 @@
+      Madhavi
+9591990898 (M)
+kbsmadhavi@yahoo.com
+
+To obtain a challenging position that will leverage my significant research and development experiences, Software Development & Management contributing to support the company’s growth, profitability, and success. I have held many management, R&D leadership and development positions in a wide variety of areas over the years including Internet & web services, mobile applications, location based services, social community services, credit card payments, mobile payments and telecommunications.
+Specialties: People leadership, strategic planning and execution, engineering management,project management
+ 
+SUMMARY
+
+* 17 years of experience in product creation, building web/mobile solutions in financial, payment transactions, location and social domains. 
+* Experienced in leading engineering teams. Leadership capabilities in hiring, building and mentoring teams. 
+* Proficient in delivering products from concept to production, coordinating with cross-functional teams like sales, product management, QA and deployment.
+* Eight years of experience in USA, 9+ years of experience in India with multiple site management including China, Srilanka in production grade enterprise applications.
+* Established, managed and motivated cross functional teams and maintained high levels of performance standards to consistently achieve targets. 
+* Managed the productive relationships with internal departments and also external partners/vendors including Deals and You, Delight circle, GETIT, Airtel and Tata Docomo for collaborated development. 
+* Have extensive experience in analyzing business requirements and strategies with product management teams.
+* Have extensive knowledge in Distributed technologies and in defining Enterprise Architecture following SDLC, Agile methodologies.
+
+HONORS/AWARDS
+
+* Sree Venkateswara University, Gold Medal for securing the highest percentage in Bachelor’s degree.
+* Awarded for patent submission for innovative solutions on sharing “text messages” to social websites using low end mobile devices without having GPRS capabilities
+	
+EDUCATION
+
+* M.Tech Instrumentation, SV University, India
+* B.Tech, EEE, SV University, India
+
+CERTIFICATIONS/TRAINING
+* Sun Microsystems Certified Programmer in JAVA 2 ( Reg Id: I8DDTT0680).
+* Completed training of BEA Systems “Developing Enterprise Applications with WebLogic Server”
+* Trained in SEI/CMM assessment and process workshop. Trained in OWASP web security.
+
+
+
+SOFTWARE SKILLS
+       LanguagesJava, Python, Visual BasicRDBMS / DB LanguagesOracle, My SQL,Postgres,DB2,Ms-AccessFrameworks/TechnologiesHibernate, Spring, Struts, REST, AJAX, Java Script, HTML5,PHP 
+PROFESSIONAL EXPERIENCE
+  Nokia India Pvt. Ltd.
+                        					    Jun 10 – Mar 15
+
+R&D Manager, Location & Commerce (L&C)
+               Managing the Engineering team to build location based products targeting India and emerging markets. Working on Hyper local discovery applications and delivered the product Nearby in different platforms including Windows, Android and Asha having current customer base around 3.5M
+               Led a research team of engineers, social scientists focusing on India and emerging-market specific mobile services. Spearheaded Nokia research center projects to develop the cost effective solutions for growth economies. Delivered the applications and platforms including Nokia Mobile Communities, Nokia Locator and Crowdsourcing platform. 
+       
+Key Role and Responsibilities:
+
+* Recruited, managed and build a team to actively develop products in location and commerce domain.
+* Managing the Engineering team including QA to handle, engineering processes, planning and execution.
+* Work with different partners for commerce/places content including “Deals and You”, “Delight Circle”, “Get IT”. 
+* Led research team to build the backend platform for crowd sourcing services. 
+* Manage full product lifecycle from conception to launch including ideation/technology scouting ,concept refinement , development ,commercialization ,collaboration with internal stakeholders such as marketing, product portfolio management and 3rd party providers, conducting research in support of product launches and cost savings initiatives
+* Manage the Pilot program and working closely with Nokia Forum to help the developers/students at PEC college of Engineering to develop the mobile applications using the crowd sourcing platform.
+* Manage individual project and overall infrastructure budgets
+
+  mChek India  Payment Systems Pvt.Ltd.
+                        					June 06 – May 10 
+
+Senior Development Manager
+Technology: Java 2, J2EE, Hibernate, Spring, Ajax, Servlets, XML, JSP, Java Script, JMS, Jetty
+
+       mChek is an innovative new platform that provides a bullet proof security on the mobile. The mChek platform has multiple products like mobile payments, mobile passcode (2-factor authentication on the mobile), mobile authentication and authorization services for any kind of work flow.
+       
+       mChek platform enables various channels (USSD, SMS, WAP, Smart Client, SIM Client, multi-lingual IVR, BREW) for both GSM & CDMA operators with the aim to provide solution to 100% subscribers to transact on mobile.
+       
+       Responsible and accountable for product development and management activities of mChek Portal, WAP portal, Customized mChek Banners, 2-faction authentication and Core platform components for mobile payments.
+       
+Key Role and Responsibilities:
+
+* Manage a development team size of 10.
+* Build a team from scratch for mChek portal/ development and Wap mall customizations for Air/Movie/Bus/IPL ticketing, Insurance, Shopping and bill payments
+* Work with product managers to transform PRDs to FRS and HLD/LLDs. Coordinate QA work, staging and production deployment.
+* Managing the team and handling project management activity like estimation, task allocation, co-ordination and status reporting to senior management.
+* Vendor management with Genie Interactive, Neev Technologies, Einstix for Web designing, Server Monitoring Application and Crud User Interface framework.
+* Work with Airtel, Tata Docomo, Entrust, Dialog customers to analyze the requirements and participating in certification.
+* Process automation for release management for enhanced productivity and improved quality
+
+  Pervasive Software Technologies India Pvt.Ltd
+                        					March 05 – Jun 06 
+Lead Software Development Engineer
+Technology: Java 2, J2EE, Servlets, XML, JSP, Java Script, JDBC 2.0, JMS, Tomcat, Linux, Windows XP
+
+* Led the team in the design/architecture and development of core Integration products including Integration Manager, Data Profiler, Data flow.  Responsible for ensuring technical quality and ability to complete projects on schedule. 
+* Mentoring/Training team members and process orientation for development and documentation.
+* Architect to provide a generic Scheduler for Integration Manager to schedule the transformations. Enhance the web interface of IM to provide the run time monitoring facility of scheduling activities remotely. 
+* Design and developed the Data Profiler application to provide the Lookup, Sort, Disable, Enable functionality of analyzing the data. 
+
+                                       						  
+
+
+
+ Alliance Data Systems, Inc, USA
+                        										April 02 – Jan 05 
+Project Leader
+Technology: Java 2, J2EE, EJB, Struts, Servlets, XML, JSP, Java Script, Oracle, DB2, JBoss, MVC, Facade
+
+* Lead the Web security project to increase the security of card holder web and Customer support web applications for the clients like 7-Eleven ,Bebe,White Hen, Tesoro(Chain of stores, gas stations),VLAC,Vcom E-cash. Work involved communicating with senior product management and systems teams for requirements and the software architecture specification.
+* Architecting to provide generic auditing services based on GLBA specifications for ADS web based applications.
+* Played a key role in the design/architecture and development of the Report Engine application. 
+* Architect in design/development of Customer Support Representatives websites for the clients 7-Eleven, Bebe, White Hen, Tesoro websites for a Dynamic Value Card to facilitate the customer support person to view/update/deactivate/balance enquiry of the account information
+* Involved in development of customized Card Holder websites per client to add the functionality of secure login, admin privileges of a client, mass activation of the cards, auto reload/replenish, Fraud Prevention capabilities.
+* Worked on a Batch standalone process to generate critical accounting reports that facilitates the daily financial recap per client.
+* Designed and developed a PDA demo tool to send the coupons by email to PDA/Palm VII. Query Application Builder (WCA) used to compile HTML into a PQA and installed it on PDA/Palm VII.
+
+                                         								
+
+
+PDBS, Inc, USA
+       Oct01 – March 02
+Sr. Consultant
+Technology: Java 2, JDBC 2.0, Oracle 8.1.6, GLUE 1.3, SOAP, Linux, Windows NT
+* Design and development of the Webserver to monitor the Client Oracle Database from Server using GLUE Platform. Implementation involved using Java, JDBC, GLUE and Oracle database.  
+* Developed generic logging system for the users and SQL errors for monitoring client databases.
+
+
+DSET Corporation, USA
+       Aug 99 – Sep 01
+ Senior Software Engineer
+ Technology: Java 2, J2EE, WebLogic Server 5.1, EJB, AWT, Swing 1.1.5, Oracle 8.1.6, GUI, Corba
+* Team Leader for the design and development of the ASR Gateway GUI. Implementation involved using Visual Café 4.0 and Oracle database. Developed Java user  interface for several ASRs such as Trunking, Transport, Switch Access and End User Access as ASOG22 Industrial standards using Swing Components
+* Developed user-friendly automated installation of CNAM Gateway through a Java graphical interface. UNIX shell programming was done for the automation.  
+* Design and development of ASR Gateway Send & Receive using J2EE, Weblogic Server and EJB. Involved in the development of modules on the Server side as well as Client side
+* Developed an SQLGRAB tool to integrate Metasolv TBS GUI with the ASR Gateway Connection to the TBS database is accomplished using JDBC drivers and sockets.
+
+       EXE Technologies, USA
+       Jun 98 – Aug 99
+Software Engineer
+Technology: Java 1.2,JDBC,Visual Basic 5.0, SQL Server 6.5, MS Access, Power Builder 5.0, Oracle 7.3
+
+* Lead the team in developing Value Proposition System in Visual Basic 5.0. The warehouse cost and benefit analysis was dynamically represented using Microsoft Chart control.
+* Designed and developed enhancements and customizations to the Exceed Warehouse application.
+
+                      				                                                                        APSEB, INDIA
+  			   							   	     Jan 96 – May 97
+Assistant Engineer, Technical
+Technology: Oracle 7.2, Oracle Forms, Pro C
+* Maintenance of an electronic billing system for electricity consumers for the State of Andhra Pradesh using Oracle/Forms.GUI interface is using Oracle forms for data input. 
+* Implemented a report generation tool for power consumer usages, bills, Auto deactivation customer. 
+* Developed an end to end interface for maintaining inventory of system equipment.
+
+          Intern, Bharat Heavy Electricals Limited, Hyderabad, India. 
+                                                              							    Mar 95 – Dec 95
+Technology: Oracle 7.2, MS Access, SQL Forms 4.5, Turbo C
+* Developed a monitoring system that displays/monitors the various parameters of motor such as voltages, currents, frequency and speed. Converting Analog signals into digital signals and given to Data Acquisition System unit. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

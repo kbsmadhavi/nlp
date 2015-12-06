@@ -1,0 +1,420 @@
+<START:location>  <END> N <START:location>  <END> a <START:location>  <END> h <START:location>  <END> s <START:location>  <END> i <START:location>  <END> k <START:location>  <END>
+<START:location> Kovalam <END>  and Ayurveda
+<START:location> Daman and Diu <END>
+<START:location> Sanchi	Saputara <END>
+<START:location> Hyderabad <END>
+<START:location> Kollam <END>
+<START:location>  <END> T <START:location>  <END> h <START:location>  <END> i <START:location>  <END> r <START:location>  <END> u <START:location>  <END> v <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> h <START:location>  <END> a <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+stayed <START:location>   <END> at <START:location>   <END> Ahmedabad
+<START:location> Jalandhar <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> d <START:location>  <END> r <START:location>  <END> e <START:location>  <END> m <START:location>  <END> u <START:location>  <END> k <START:location>  <END> h <START:location>  <END>
+<START:location> Andaman and Nicobar Islands <END>
+<START:location> Nandi-Hills <END>
+Badrinath	Bandhavgarh <START:location>   <END> National <START:location>   <END> Park
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> i <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> j <START:location>  <END> a <START:location>  <END> j <START:location>  <END> i <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location>  	  <END>
+<START:location> Kanchipuram <END>
+<START:location> Rameshwaram <END>
+<START:location> Shimla	Sohna_Hills <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> j <START:location>  <END> g <START:location>  <END> i <START:location>  <END> r <START:location>  <END>
+Valley <START:location>   <END> of <START:location>   <END> Flowers
+<START:location>  <END> O <START:location>  <END> r <START:location>  <END> c <START:location>  <END> h <START:location>  <END> h <START:location>  <END> a <START:location>  <END>
+<START:location> Thanjavur <END>
+<START:location>  <END> P <START:location>  <END> i <START:location>  <END> t <START:location>  <END> h <START:location>  <END> o <START:location>  <END> r <START:location>  <END> a <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END> h <START:location>  <END>
+<START:location> Cotigao Wild Life Sanctuary <END>
+<START:location>  <END> T <START:location>  <END> i <START:location>  <END> r <START:location>  <END> u <START:location>  <END> p <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> l <START:location>  <END> a <START:location>  <END> p <START:location>  <END> p <START:location>  <END> u <START:location>  <END> z <START:location>  <END> h <START:location>  <END> a <START:location>  <END>   <START:location>  <END> B <START:location>  <END> e <START:location>  <END> a <START:location>  <END> c <START:location>  <END> h <START:location>  <END>   <START:location>  <END> i <START:location>  <END> s <START:location>  <END>   <START:location>  <END> a <START:location>  <END>   <START:location>  <END> g <START:location>  <END> o <START:location>  <END> o <START:location>  <END> d <START:location>  <END>   <START:location>  <END> p <START:location>  <END> l <START:location>  <END> a <START:location>  <END> c <START:location>  <END> e <START:location>  <END>   <START:location>  <END> t <START:location>  <END> o <START:location>  <END>   <START:location>  <END> h <START:location>  <END> a <START:location>  <END> v <START:location>  <END> e <START:location>  <END>   <START:location>  <END> f <START:location>  <END> u <START:location>  <END> n <START:location>  <END>
+<START:location> Lucknow <END>
+<START:location> Kanha National Park <END>
+<START:location> Wayanad <END>  Wildlife Sanctuary
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> k <START:location>  <END> o <START:location>  <END> m <START:location>  <END>
+<START:location> Dindigul <END>
+<START:location> Haridwar <END>
+<START:location>  <END> R <START:location>  <END> i <START:location>  <END> s <START:location>  <END> h <START:location>  <END> i <START:location>  <END> k <START:location>  <END> e <START:location>  <END> s <START:location>  <END> h <START:location>  <END>
+<START:location> Itangar <END>
+<START:location> Gwalior <END>
+<START:location> H <END> orsley- <START:location> H <END> ills
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> o <START:location>  <END> p <START:location>  <END> t <START:location>  <END> a <START:location>  <END>
+<START:location> Periyar Wildlife Sanctuary <END>
+<START:location> Araku valley <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> e <START:location>  <END> n <START:location>  <END> n <START:location>  <END> a <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> I <START:location>  <END> n <START:location>  <END> d <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> i <START:location>  <END> l <START:location>  <END> a <START:location>  <END> i <START:location>  <END>
+<START:location> Aurangabad <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> c <START:location>  <END> h <START:location>  <END> i <START:location>  <END>
+<START:location> Mount Abu <END>
+<START:location>  <END> C <START:location>  <END> o <START:location>  <END> o <START:location>  <END> r <START:location>  <END> g <START:location>  <END>
+<START:location> Keoladeoghana National Park <END>
+<START:location> Nahsik <END>
+<START:location>  <END> A <START:location>  <END> l <START:location>  <END> l <START:location>  <END> a <START:location>  <END> h <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> i <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END> h <START:location>  <END>
+<START:location> Kullu <END>
+<START:location>  <END> H <START:location>  <END> y <START:location>  <END> d <START:location>  <END> e <START:location>  <END> r <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location> Calicut <END>
+<START:location> Palakkad <END>
+<START:location>  <END> D <START:location>  <END> w <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> k <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> t <START:location>  <END> n <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> o <START:location>  <END> d <START:location>  <END> h <START:location>  <END>   <START:location>  <END> G <START:location>  <END> a <START:location>  <END> y <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> U <START:location>  <END> d <START:location>  <END> a <START:location>  <END> i <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> F <START:location>  <END> a <START:location>  <END> r <START:location>  <END> i <START:location>  <END> d <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location> Alleppey <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> t <START:location>  <END> t <START:location>  <END> a <START:location>  <END> k <START:location>  <END> k <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> A <START:location>  <END> y <START:location>  <END> u <START:location>  <END> r <START:location>  <END> v <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location> Kausani <END>
+<START:location>  <END> K <START:location>  <END> h <START:location>  <END> a <START:location>  <END> j <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> h <START:location>  <END> o <START:location>  <END>
+<START:location> Thiruvananthapuram <END>
+Kottakkal <START:location>   <END> and <START:location>   <END> Ayurveda
+<START:location> Bhuj <END>
+<START:location>  <END> I <START:location>  <END> t <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location> Pushkar <END>
+<START:location> Baroda <END>
+<START:location>  <END> A <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END> t <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END>   <START:location>  <END> i <START:location>  <END> s <START:location>  <END>   <START:location>  <END> a <START:location>  <END>   <START:location>  <END> c <START:location>  <END> i <START:location>  <END> t <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> n <START:location>  <END> d <START:location>  <END> a <START:location>  <END> m <START:location>  <END> a <START:location>  <END> n <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> N <START:location>  <END> i <START:location>  <END> c <START:location>  <END> o <START:location>  <END> b <START:location>  <END> a <START:location>  <END> r <START:location>  <END>   <START:location>  <END> I <START:location>  <END> s <START:location>  <END> l <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> s <START:location>  <END>
+Dudhwa <START:location>   <END> National <START:location>   <END> Park
+<START:location>  <END> A <START:location>  <END> i <START:location>  <END> z <START:location>  <END> a <START:location>  <END> w <START:location>  <END> l <START:location>  <END>   <START:location>  <END> i <START:location>  <END> s <START:location>  <END>   <START:location>  <END> a <START:location>  <END>   <START:location>  <END> f <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> a <START:location>  <END> s <START:location>  <END> t <START:location>  <END> i <START:location>  <END> c <START:location>  <END>   <START:location>  <END> v <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> a <START:location>  <END> g <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> u <START:location>  <END> b <START:location>  <END> a <START:location>  <END> n <START:location>  <END> e <START:location>  <END> s <START:location>  <END> w <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location> Pondicherry <END>
+<START:location> Ajmer <END>  is my home town
+<START:location>  <END> G <START:location>  <END> u <START:location>  <END> w <START:location>  <END> a <START:location>  <END> h <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END>
+<START:location> Great Himalayan National Park <END>
+<START:location> Gurgaon <END>
+<START:location> Munnar <END>
+<START:location>  <END> H <START:location>  <END> o <START:location>  <END> r <START:location>  <END> s <START:location>  <END> l <START:location>  <END> e <START:location>  <END> y <START:location>  <END> - <START:location>  <END> H <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> s <START:location>  <END>
+<START:location>  <END> G <START:location>  <END> w <START:location>  <END> a <START:location>  <END> l <START:location>  <END> i <START:location>  <END> o <START:location>  <END> r <START:location>  <END>
+Periyar <START:location>   <END> Wildlife <START:location>   <END> Sanctuary
+<START:location> Surat <END>
+Ajmer <START:location>   <END> is <START:location>   <END> my <START:location>   <END> home <START:location>   <END> town
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> n <START:location>  <END> h <START:location>  <END> a <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+Kanha <START:location>   <END> National <START:location>   <END> Park
+<START:location> Guwahati <END>
+<START:location>  <END> R <START:location>  <END> o <START:location>  <END> u <START:location>  <END> r <START:location>  <END> k <START:location>  <END> e <START:location>  <END> l <START:location>  <END> a <START:location>  <END>
+<START:location> Varkala and Ayurveda <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> e <START:location>  <END> r <START:location>  <END> a <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> a <START:location>  <END> s <START:location>  <END> t <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location> Khajuraho <END>
+<START:location>  <END> W <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> r <START:location>  <END> a <START:location>  <END> k <START:location>  <END> u <START:location>  <END>   <START:location>  <END> v <START:location>  <END> a <START:location>  <END> l <START:location>  <END> l <START:location>  <END> e <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> V <START:location>  <END> a <START:location>  <END> i <START:location>  <END> s <START:location>  <END> h <START:location>  <END> a <START:location>  <END> l <START:location>  <END> i <START:location>  <END>
+Chennai <START:location>   <END> Beaches
+<START:location> Chennai <END>
+<START:location> Gir Wildlife Sanctuary <END>
+Sariska <START:location>   <END> Wildlife <START:location>   <END> Sanctuary	Shillong
+<START:location>  <END> V <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> A <START:location>  <END> y <START:location>  <END> u <START:location>  <END> r <START:location>  <END> v <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> L <START:location>  <END> a <START:location>  <END> k <START:location>  <END> s <START:location>  <END> h <START:location>  <END> a <START:location>  <END> d <START:location>  <END> w <START:location>  <END> e <START:location>  <END> e <START:location>  <END> p <START:location>  <END> 	 <START:location>  <END> L <START:location>  <END> u <START:location>  <END> d <START:location>  <END> h <START:location>  <END> i <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END>
+Great <START:location>   <END> Himalayan <START:location>   <END> National <START:location>   <END> Park
+<START:location>  <END> G <START:location>  <END> u <START:location>  <END> r <START:location>  <END> u <START:location>  <END> v <START:location>  <END> a <START:location>  <END> y <START:location>  <END> o <START:location>  <END> o <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> h <START:location>  <END> g <START:location>  <END> a <START:location>  <END> n <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> S <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> t <START:location>  <END>
+<START:location> Kargil <END>
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> n <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Coorg <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> k <START:location>  <END> o <START:location>  <END> m <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> A <START:location>  <END> y <START:location>  <END> u <START:location>  <END> r <START:location>  <END> v <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location> Bhimtal <END>
+<START:location> Allahabad <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> t <START:location>  <END> t <START:location>  <END> a <START:location>  <END> d <START:location>  <END> a <START:location>  <END> k <START:location>  <END> k <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location> Ranganthittu Bird Sanctuary <END>
+<START:location> Trichy <END>
+<START:location> Ranikhet <END>
+<START:location> Pune <END>
+Agumbe <START:location>   <END> is <START:location>   <END> a <START:location>   <END> tourism <START:location>   <END> place
+<START:location> Agumbe <END>  is a tourism place
+<START:location> Chamba <END>
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> h <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location>  <END>
+Great  <START:location> H <END> imalayan National Park
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> m <START:location>  <END> s <START:location>  <END> h <START:location>  <END> e <START:location>  <END> d <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> G <START:location>  <END> i <START:location>  <END> r <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END> l <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location> Kodaikanal <END>
+Daman <START:location>   <END> and <START:location>   <END> Diu
+Agartala <START:location>   <END> is <START:location>   <END> a <START:location>   <END> city
+<START:location> Hampi <END>
+Corbett <START:location>   <END> National <START:location>   <END> Park
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> d <START:location>  <END> a <START:location>  <END> i <START:location>  <END> k <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location> Aizawl <END>  is a fantastic village
+<START:location>  <END> D <START:location>  <END> h <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> u <START:location>  <END> l <START:location>  <END> t <START:location>  <END> i <START:location>  <END> 	 <START:location>  <END>
+<START:location>  <END> T <START:location>  <END> h <START:location>  <END> a <START:location>  <END> n <START:location>  <END> j <START:location>  <END> a <START:location>  <END> v <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> u <START:location>  <END> j <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> a <START:location>  <END> r <START:location>  <END> o <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location> Kochi <END>
+<START:location> Dwaraka <END>
+<START:location> Orchha <END>
+<START:location> Horsley-Hills <END>
+Kovalam <START:location>   <END> and <START:location>   <END> Ayurveda
+<START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> h <START:location>  <END> i <START:location>  <END> 	 <START:location>  <END> S <START:location>  <END> a <START:location>  <END> p <START:location>  <END> u <START:location>  <END> t <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END>
+<START:location> Jammu <END>
+<START:location> Pahalgam <END>
+<START:location> Ranchi <END>
+<START:location> Chennai <END>  Beaches
+<START:location> Malpe Beach	Manas National Park <END>
+<START:location>  <END> D <START:location>  <END> e <START:location>  <END> v <START:location>  <END> i <START:location>  <END> k <START:location>  <END> u <START:location>  <END> l <START:location>  <END> a <START:location>  <END> m <START:location>  <END> 	 <START:location>  <END> D <START:location>  <END> h <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END> a <START:location>  <END> s <START:location>  <END> h <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END>
+<START:location> Patna <END>
+<START:location> Faridabad <END>
+Rajaji <START:location>   <END> National <START:location>   <END> Park
+<START:location> Dudhwa National Park	 <END>
+<START:location>  <END> C <START:location>  <END> a <START:location>  <END> l <START:location>  <END> i <START:location>  <END> c <START:location>  <END> u <START:location>  <END> t <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> i <START:location>  <END> m <START:location>  <END> t <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> u <START:location>  <END> s <START:location>  <END> h <START:location>  <END> k <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> r <START:location>  <END> u <START:location>  <END> k <START:location>  <END> s <START:location>  <END> h <START:location>  <END> e <START:location>  <END> t <START:location>  <END> r <START:location>  <END> a <START:location>  <END>
+Maravanthe <START:location>   <END> Beach
+<START:location>  <END> P <START:location>  <END> o <START:location>  <END> n <START:location>  <END> d <START:location>  <END> i <START:location>  <END> c <START:location>  <END> h <START:location>  <END> e <START:location>  <END> r <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> G <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> t <START:location>  <END> o <START:location>  <END> k <START:location>  <END>
+<START:location> Kudremukh <END>
+<START:location> Kotagiri <END>
+Wayanad <START:location>   <END> Wildlife <START:location>   <END> Sanctuary
+Malpe <START:location>   <END> Beach	Manas <START:location>   <END> National <START:location>   <END> Park
+<START:location> Lakshadweep	Ludhiana <END>
+<START:location>  <END> s <START:location>  <END> t <START:location>  <END> a <START:location>  <END> y <START:location>  <END> e <START:location>  <END> d <START:location>  <END>   <START:location>  <END> a <START:location>  <END> t <START:location>  <END>   <START:location>  <END> A <START:location>  <END> h <START:location>  <END> m <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location> Ayodhya <END>
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> i <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Kurukshetra <END>
+<START:location> Chennai Beaches <END>
+<START:location> Kumarakom Bird Sanctuary <END>
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> m <START:location>  <END> m <START:location>  <END> u <START:location>  <END>
+<START:location> Bhubaneswar <END>
+<START:location> Hogenakkal <END>
+Bodh <START:location>   <END> Gaya
+<START:location> Pithoragarh <END>
+<START:location> Maravanthe Beach <END>
+<START:location>  <END> I <START:location>  <END> m <START:location>  <END> p <START:location>  <END> h <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location> Varanasi <END>
+<START:location> Coonoor <END>
+<START:location> Karwar <END>
+<START:location>  <END> B <START:location>  <END> i <START:location>  <END> d <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> g <START:location>  <END> u <START:location>  <END> m <START:location>  <END> b <START:location>  <END> e <START:location>  <END>   <START:location>  <END> i <START:location>  <END> s <START:location>  <END>   <START:location>  <END> a <START:location>  <END>   <START:location>  <END> t <START:location>  <END> o <START:location>  <END> u <START:location>  <END> r <START:location>  <END> i <START:location>  <END> s <START:location>  <END> m <START:location>  <END>   <START:location>  <END> p <START:location>  <END> l <START:location>  <END> a <START:location>  <END> c <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> l <START:location>  <END> p <START:location>  <END> e <START:location>  <END>   <START:location>  <END> B <START:location>  <END> e <START:location>  <END> a <START:location>  <END> c <START:location>  <END> h <START:location>  <END> 	 <START:location>  <END> M <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> s <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location> Kedarnath <END>
+<START:location> H <END> yderabad
+<START:location>  <END> A <START:location>  <END> j <START:location>  <END> m <START:location>  <END> e <START:location>  <END> r <START:location>  <END>   <START:location>  <END> i <START:location>  <END> s <START:location>  <END>   <START:location>  <END> m <START:location>  <END> y <START:location>  <END>   <START:location>  <END> h <START:location>  <END> o <START:location>  <END> m <START:location>  <END> e <START:location>  <END>   <START:location>  <END> t <START:location>  <END> o <START:location>  <END> w <START:location>  <END> n <START:location>  <END>
+stayed at  <START:location> Ahmedabad <END>
+<START:location> Ranthambore <END>
+<START:location>  <END> D <START:location>  <END> u <START:location>  <END> d <START:location>  <END> h <START:location>  <END> w <START:location>  <END> a <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END> 	 <START:location>  <END>
+<START:location> Srinagar	  <END>
+<START:location> H <END>
+<START:location>  <END> V <START:location>  <END> a <START:location>  <END> l <START:location>  <END> l <START:location>  <END> e <START:location>  <END> y <START:location>  <END>   <START:location>  <END> o <START:location>  <END> f <START:location>  <END>   <START:location>  <END> F <START:location>  <END> l <START:location>  <END> o <START:location>  <END> w <START:location>  <END> e <START:location>  <END> r <START:location>  <END> s <START:location>  <END>
+<START:location> Chikhaldara Hills <END>
+<START:location> Rishikesh <END>
+<START:location> Idukki <END>
+<START:location>  <END> Y <START:location>  <END> e <START:location>  <END> r <START:location>  <END> c <START:location>  <END> a <START:location>  <END> u <START:location>  <END> d <START:location>  <END>
+<START:location> Sunderbans <END>
+<START:location> Gandhinagar <END>
+<START:location> Vrindhavan <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> i <START:location>  <END> k <START:location>  <END> h <START:location>  <END> a <START:location>  <END> l <START:location>  <END> d <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END>   <START:location>  <END> H <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> s <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> l <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END> 	 <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> u <START:location>  <END> r <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> v <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> m <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> A <START:location>  <END> y <START:location>  <END> u <START:location>  <END> r <START:location>  <END> v <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> k <START:location>  <END> k <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location>  <END> S <START:location>  <END> u <START:location>  <END> n <START:location>  <END> d <START:location>  <END> e <START:location>  <END> r <START:location>  <END> b <START:location>  <END> a <START:location>  <END> n <START:location>  <END> s <START:location>  <END>
+<START:location> Rajaji National Park <END>
+<START:location>  <END> D <START:location>  <END> a <START:location>  <END> m <START:location>  <END> a <START:location>  <END> n <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> D <START:location>  <END> i <START:location>  <END> u <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> u <START:location>  <END> n <START:location>  <END> n <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location> Rajgir <END>
+<START:location>  <END> K <START:location>  <END> e <START:location>  <END> o <START:location>  <END> l <START:location>  <END> a <START:location>  <END> d <START:location>  <END> e <START:location>  <END> o <START:location>  <END> g <START:location>  <END> h <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> u <START:location>  <END> n <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> B <START:location>  <END> a <START:location>  <END> d <START:location>  <END> r <START:location>  <END> i <START:location>  <END> n <START:location>  <END> a <START:location>  <END> t <START:location>  <END> h <START:location>  <END> 	 <START:location>  <END> B <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> h <START:location>  <END> a <START:location>  <END> v <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END> h <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location> Amarnath <END>
+<START:location> Rourkela <END>
+Keoladeoghana <START:location>   <END> National <START:location>   <END> Park
+<START:location> Badrinath	Bandhavgarh National Park <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> h <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> a <START:location>  <END> m <START:location>  <END> b <START:location>  <END> a <START:location>  <END>
+<START:location>   <END> 	 <START:location>   <END>
+<START:location>  <END> B <START:location>  <END> i <START:location>  <END> l <START:location>  <END> a <START:location>  <END> s <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Chopta <END>
+<START:location> Cuttack <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> l <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> r <START:location>  <END> w <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> N <START:location>  <END> e <START:location>  <END> t <START:location>  <END> r <START:location>  <END> a <START:location>  <END> v <START:location>  <END> a <START:location>  <END> l <START:location>  <END> i <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END>   <START:location>  <END> L <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END> 	 <START:location>  <END>   <START:location>  <END>
+<START:location> Warangal <END>
+<START:location>  <END> D <START:location>  <END> i <START:location>  <END> n <START:location>  <END> d <START:location>  <END> i <START:location>  <END> g <START:location>  <END> u <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> n <START:location>  <END> i <START:location>  <END> k <START:location>  <END> h <START:location>  <END> e <START:location>  <END> t <START:location>  <END>
+<START:location>  <END>   <START:location>  <END> 	 <START:location>  <END>   <START:location>  <END>
+<START:location> Bodh Gaya <END>
+Worked at  <START:location> Agra <END>
+<START:location>  <END> P <START:location>  <END> e <START:location>  <END> r <START:location>  <END> i <START:location>  <END> y <START:location>  <END> a <START:location>  <END> r <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END> l <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> u <START:location>  <END> s <START:location>  <END> a <START:location>  <END> n <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> h <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> l <START:location>  <END> i <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> v <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> h <START:location>  <END> e <START:location>  <END>   <START:location>  <END> B <START:location>  <END> e <START:location>  <END> a <START:location>  <END> c <START:location>  <END> h <START:location>  <END>
+<START:location> Mumbai <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> d <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> i <START:location>  <END>
+Dadra <START:location>   <END> and <START:location>   <END> Nagar <START:location>   <END> Haveli
+<START:location> Vijayawada <END>
+<START:location>  <END> S <START:location>  <END> r <START:location>  <END> i <START:location>  <END> n <START:location>  <END> a <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END> 	 <START:location>  <END>   <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> l <START:location>  <END> k <START:location>  <END> a <START:location>  <END> t <START:location>  <END> a <START:location>  <END>
+<START:location> Patnitop <END>
+<START:location> Mussoorie <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> e <START:location>  <END> r <START:location>  <END> r <START:location>  <END> a <START:location>  <END> p <START:location>  <END> u <START:location>  <END> n <START:location>  <END> j <START:location>  <END> i <START:location>  <END>
+<START:location> Guruvayoor <END>
+<START:location> Indore <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> v <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+Srinagar	 <START:location>   <END>
+<START:location> Udaipur <END>
+<START:location>  <END> A <START:location>  <END> n <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> a <START:location>  <END> g <START:location>  <END> i <START:location>  <END> r <START:location>  <END>
+<START:location> Bastar <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> l <START:location>  <END> l <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location> Chandigarh <END>
+<START:location>  <END> G <START:location>  <END> r <START:location>  <END> e <START:location>  <END> a <START:location>  <END> t <START:location>  <END>   <START:location>  <END> H <START:location>  <END> i <START:location>  <END> m <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> y <START:location>  <END> a <START:location>  <END> n <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location>  <END> U <START:location>  <END> j <START:location>  <END> j <START:location>  <END> a <START:location>  <END> i <START:location>  <END> n <START:location>  <END>
+<START:location> Dehradun	Delhi <END>
+<START:location> Thrissur <END>
+<START:location> Imphal <END>
+<START:location>  <END> S <START:location>  <END> h <START:location>  <END> i <START:location>  <END> m <START:location>  <END> l <START:location>  <END> a <START:location>  <END> 	 <START:location>  <END> S <START:location>  <END> o <START:location>  <END> h <START:location>  <END> n <START:location>  <END> a <START:location>  <END> _ <START:location>  <END> H <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> s <START:location>  <END>
+<START:location>  <END> C <START:location>  <END> o <START:location>  <END> i <START:location>  <END> m <START:location>  <END> b <START:location>  <END> a <START:location>  <END> t <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END>
+Araku <START:location>   <END> valley
+Chikhaldara  <START:location> H <END> ills
+<START:location>  <END> V <START:location>  <END> r <START:location>  <END> i <START:location>  <END> n <START:location>  <END> d <START:location>  <END> h <START:location>  <END> a <START:location>  <END> v <START:location>  <END> a <START:location>  <END> n <START:location>  <END>
+Andaman <START:location>   <END> and <START:location>   <END> Nicobar <START:location>   <END> Islands
+<START:location> Raipur <END>
+<START:location> Kovalam <END>
+<START:location>  <END> C <START:location>  <END> u <START:location>  <END> t <START:location>  <END> t <START:location>  <END> a <START:location>  <END> c <START:location>  <END> k <START:location>  <END>
+<START:location> Mysore <END>
+<START:location>  <END> S <START:location>  <END> a <START:location>  <END> r <START:location>  <END> i <START:location>  <END> s <START:location>  <END> k <START:location>  <END> a <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END> l <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END> 	 <START:location>  <END> S <START:location>  <END> h <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> o <START:location>  <END> n <START:location>  <END> g <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> n <START:location>  <END> y <START:location>  <END> a <START:location>  <END> k <START:location>  <END> u <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> i <START:location>  <END>
+<START:location> Ujjain <END>
+<START:location> Bhopal <END>
+<START:location> Margoa <END>
+<START:location>  <END> I <START:location>  <END> d <START:location>  <END> u <START:location>  <END> k <START:location>  <END> k <START:location>  <END> i <START:location>  <END>
+<START:location> Kanyakumari <END>
+<START:location>  <END> M <START:location>  <END> a <START:location>  <END> r <START:location>  <END> g <START:location>  <END> o <START:location>  <END> a <START:location>  <END>
+<START:location> Nalanda <END>
+Kumarakom <START:location>   <END> and <START:location>   <END> Ayurveda
+<START:location>  <END> M <START:location>  <END> o <START:location>  <END> u <START:location>  <END> n <START:location>  <END> t <START:location>  <END>   <START:location>  <END> A <START:location>  <END> b <START:location>  <END> u <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> t <START:location>  <END> n <START:location>  <END> i <START:location>  <END> t <START:location>  <END> o <START:location>  <END> p <START:location>  <END>
+<START:location> Valley of Flowers <END>
+<START:location> Kumaon <END>
+<START:location> Darjeeling <END>
+<START:location> Vaishali <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> h <START:location>  <END> a <START:location>  <END> m <START:location>  <END> b <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END>
+<START:location> Bangalore	 <END>
+<START:location>  <END> G <START:location>  <END> u <START:location>  <END> l <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> g <START:location>  <END>
+<START:location> Ooty <END>
+Worked <START:location>   <END> at <START:location>   <END> Agra
+<START:location> Kumarakom and Ayurveda <END>
+<START:location>  <END> G <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> h <START:location>  <END> i <START:location>  <END> n <START:location>  <END> a <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+Kumarakom <START:location>   <END> Bird <START:location>   <END> Sanctuary
+<START:location>  <END> W <START:location>  <END> a <START:location>  <END> y <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location> Bidar <END>
+<START:location>  <END> G <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> o <START:location>  <END> t <START:location>  <END> r <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> l <START:location>  <END> m <START:location>  <END> o <START:location>  <END> r <START:location>  <END> a <START:location>  <END>
+Nanda <START:location>   <END> Devi <START:location>   <END> National <START:location>   <END> Park
+<START:location>  <END> V <START:location>  <END> i <START:location>  <END> s <START:location>  <END> h <START:location>  <END> a <START:location>  <END> k <START:location>  <END> h <START:location>  <END> a <START:location>  <END> p <START:location>  <END> a <START:location>  <END> t <START:location>  <END> n <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> l <START:location>  <END> l <START:location>  <END> u <START:location>  <END>
+<START:location> Gulmarg <END>
+<START:location> Dalhousie <END>
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> a <START:location>  <END> g <START:location>  <END> a <START:location>  <END> l <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> P <START:location>  <END> a <START:location>  <END> h <START:location>  <END> a <START:location>  <END> l <START:location>  <END> g <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location>  <END>   <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> m <START:location>  <END> a <START:location>  <END> o <START:location>  <END> n <START:location>  <END>
+<START:location>  <END> L <START:location>  <END> u <START:location>  <END> c <START:location>  <END> k <START:location>  <END> n <START:location>  <END> o <START:location>  <END> w <START:location>  <END>
+<START:location> Bhagalpur <END>
+<START:location> Jodhpur <END>
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> i <START:location>  <END> s <START:location>  <END> a <START:location>  <END> l <START:location>  <END> m <START:location>  <END> e <START:location>  <END> r <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> u <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> k <START:location>  <END> o <START:location>  <END> m <START:location>  <END>   <START:location>  <END> B <START:location>  <END> i <START:location>  <END> r <START:location>  <END> d <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location> Corbett National Park <END>
+<START:location> Gangotri <END>
+<START:location> Kumarakom <END>  and Ayurveda
+<START:location> Jamshedpur <END>
+<START:location> Jaipur <END>
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> r <START:location>  <END> g <START:location>  <END> i <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> V <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> s <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> T <START:location>  <END> h <START:location>  <END> r <START:location>  <END> i <START:location>  <END> s <START:location>  <END> s <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Anantagir <END>
+<START:location>   <END>
+<START:location>  <END> A <START:location>  <END> l <START:location>  <END> l <START:location>  <END> e <START:location>  <END> p <START:location>  <END> p <START:location>  <END> e <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> K <START:location>  <END> o <START:location>  <END> t <START:location>  <END> a <START:location>  <END> g <START:location>  <END> i <START:location>  <END> r <START:location>  <END> i <START:location>  <END>
+<START:location> Vishakhapatnam <END>
+<START:location>  <END> C <START:location>  <END> o <START:location>  <END> r <START:location>  <END> b <START:location>  <END> e <START:location>  <END> t <START:location>  <END> t <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+<START:location> Chidambaram <END>
+<START:location> Dadra and Nagar Haveli <END>
+<START:location>  <END> J <START:location>  <END> o <START:location>  <END> d <START:location>  <END> h <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Nanda Devi National Park <END>
+<START:location>  <END> M <START:location>  <END> y <START:location>  <END> s <START:location>  <END> o <START:location>  <END> r <START:location>  <END> e <START:location>  <END>
+<START:location> Yercaud <END>
+<START:location> Chail <END>
+<START:location> Sariska Wildlife Sanctuary	Shillong <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> n <START:location>  <END> t <START:location>  <END> h <START:location>  <END> i <START:location>  <END> t <START:location>  <END> t <START:location>  <END> u <START:location>  <END>   <START:location>  <END> B <START:location>  <END> i <START:location>  <END> r <START:location>  <END> d <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+Netravali <START:location>   <END> Wild <START:location>   <END> Life <START:location>   <END> Sanctuary	 <START:location>   <END>
+<START:location> Cherai <END>
+<START:location>  <END> T <START:location>  <END> e <START:location>  <END> z <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Bhilai <END>
+<START:location> Konark <END>
+<START:location> Kanpur <END>
+<START:location>  <END> K <START:location>  <END> e <START:location>  <END> d <START:location>  <END> a <START:location>  <END> r <START:location>  <END> n <START:location>  <END> a <START:location>  <END> t <START:location>  <END> h <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> m <START:location>  <END> r <START:location>  <END> i <START:location>  <END> t <START:location>  <END> s <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+<START:location> H <END> ampi
+<START:location>  <END> D <START:location>  <END> a <START:location>  <END> d <START:location>  <END> r <START:location>  <END> a <START:location>  <END>   <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> g <START:location>  <END> a <START:location>  <END> r <START:location>  <END>   <START:location>  <END> H <START:location>  <END> a <START:location>  <END> v <START:location>  <END> e <START:location>  <END> l <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> N <START:location>  <END> a <START:location>  <END> l <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+Shimla	Sohna_ <START:location> H <END> ills
+<START:location> H <END> ogenakkal
+<START:location> Gangtok <END>
+Dadra and Nagar  <START:location> H <END> aveli
+<START:location> Devikulam	Dharamashala <END>
+<START:location>  <END> R <START:location>  <END> a <START:location>  <END> m <START:location>  <END> e <START:location>  <END> s <START:location>  <END> h <START:location>  <END> w <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location> Alappuzha Beach <END>  is a good place to have fun
+<START:location> Netravali Wild Life Sanctuary	  <END>
+<START:location>  <END> W <START:location>  <END> a <START:location>  <END> y <START:location>  <END> a <START:location>  <END> n <START:location>  <END> a <START:location>  <END> d <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END> l <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location> Goa <END>
+Aizawl <START:location>   <END> is <START:location>   <END> a <START:location>   <END> fantastic <START:location>   <END> village
+<START:location>  <END> T <START:location>  <END> r <START:location>  <END> i <START:location>  <END> c <START:location>  <END> h <START:location>  <END> y <START:location>  <END>
+<START:location> Panchgani <END>
+<START:location>  <END> O <START:location>  <END> o <START:location>  <END> t <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> u <START:location>  <END> m <START:location>  <END> b <START:location>  <END> a <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> W <START:location>  <END> o <START:location>  <END> r <START:location>  <END> k <START:location>  <END> e <START:location>  <END> d <START:location>  <END>   <START:location>  <END> a <START:location>  <END> t <START:location>  <END>   <START:location>  <END> A <START:location>  <END> g <START:location>  <END> r <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> D <START:location>  <END> e <START:location>  <END> h <START:location>  <END> r <START:location>  <END> a <START:location>  <END> d <START:location>  <END> u <START:location>  <END> n <START:location>  <END> 	 <START:location>  <END> D <START:location>  <END> e <START:location>  <END> l <START:location>  <END> h <START:location>  <END> i <START:location>  <END>
+<START:location> Tirunelveli <END>
+<START:location>  <END> A <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> n <START:location>  <END> g <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> d <START:location>  <END>
+<START:location>  <END> H <START:location>  <END> o <START:location>  <END> g <START:location>  <END> e <START:location>  <END> n <START:location>  <END> a <START:location>  <END> k <START:location>  <END> k <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location> Wayanad Wildlife Sanctuary <END>
+<START:location> Madurai <END>
+Nandi- <START:location> H <END> ills
+<START:location>  <END> K <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> h <START:location>  <END> i <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> a <START:location>  <END> i <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> C <START:location>  <END> o <START:location>  <END> o <START:location>  <END> n <START:location>  <END> o <START:location>  <END> o <START:location>  <END> r <START:location>  <END>
+<START:location> Puri <END>
+Varkala <START:location>   <END> and <START:location>   <END> Ayurveda
+Ranganthittu <START:location>   <END> Bird <START:location>   <END> Sanctuary
+Gir <START:location>   <END> Wildlife <START:location>   <END> Sanctuary
+<START:location>  <END> G <START:location>  <END> o <START:location>  <END> a <START:location>  <END>
+<START:location> Amritsar <END>
+<START:location> Mangalore <END>
+<START:location> Bilaspur <END>
+Chikhaldara <START:location>   <END> Hills
+<START:location> Tezpur <END>
+<START:location> Tirupati <END>
+<START:location> Dhanaulti	 <END>
+<START:location>  <END> J <START:location>  <END> a <START:location>  <END> b <START:location>  <END> a <START:location>  <END> l <START:location>  <END> p <START:location>  <END> u <START:location>  <END> r <START:location>  <END>
+<START:location> Kumarakom <END>  Bird Sanctuary
+<START:location> Wayanad <END>
+<START:location>  <END> N <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> a <START:location>  <END>   <START:location>  <END> D <START:location>  <END> e <START:location>  <END> v <START:location>  <END> i <START:location>  <END>   <START:location>  <END> N <START:location>  <END> a <START:location>  <END> t <START:location>  <END> i <START:location>  <END> o <START:location>  <END> n <START:location>  <END> a <START:location>  <END> l <START:location>  <END>   <START:location>  <END> P <START:location>  <END> a <START:location>  <END> r <START:location>  <END> k <START:location>  <END>
+Cotigao <START:location>   <END> Wild <START:location>   <END> Life <START:location>   <END> Sanctuary
+<START:location> Cherrapunji <END>
+<START:location> H <END> aridwar
+<START:location>  <END> B <START:location>  <END> h <START:location>  <END> o <START:location>  <END> p <START:location>  <END> a <START:location>  <END> l <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> y <START:location>  <END> o <START:location>  <END> d <START:location>  <END> h <START:location>  <END> y <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> M <START:location>  <END> u <START:location>  <END> s <START:location>  <END> s <START:location>  <END> o <START:location>  <END> o <START:location>  <END> r <START:location>  <END> i <START:location>  <END> e <START:location>  <END>
+Mount <START:location>   <END> Abu
+<START:location> Kolkata <END>
+<START:location>  <END> N <START:location>  <END> a <START:location>  <END> n <START:location>  <END> d <START:location>  <END> i <START:location>  <END> - <START:location>  <END> H <START:location>  <END> i <START:location>  <END> l <START:location>  <END> l <START:location>  <END> s <START:location>  <END>
+<START:location> Almora <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> e <START:location>  <END> n <START:location>  <END> n <START:location>  <END> a <START:location>  <END> i <START:location>  <END>   <START:location>  <END> B <START:location>  <END> e <START:location>  <END> a <START:location>  <END> c <START:location>  <END> h <START:location>  <END> e <START:location>  <END> s <START:location>  <END>
+<START:location>  <END> T <START:location>  <END> i <START:location>  <END> r <START:location>  <END> u <START:location>  <END> n <START:location>  <END> e <START:location>  <END> l <START:location>  <END> v <START:location>  <END> e <START:location>  <END> l <START:location>  <END> i <START:location>  <END>
+<START:location> Kumarakom <END>
+<START:location> Agartala <END>  is a city
+<START:location> Kottakkal and Ayurveda <END>
+<START:location>  <END> D <START:location>  <END> a <START:location>  <END> l <START:location>  <END> h <START:location>  <END> o <START:location>  <END> u <START:location>  <END> s <START:location>  <END> i <START:location>  <END> e <START:location>  <END>
+<START:location>  <END> V <START:location>  <END> i <START:location>  <END> j <START:location>  <END> a <START:location>  <END> y <START:location>  <END> a <START:location>  <END> w <START:location>  <END> a <START:location>  <END> d <START:location>  <END> a <START:location>  <END>
+<START:location>  <END> H <START:location>  <END>
+<START:location>  <END> H <START:location>  <END> a <START:location>  <END> m <START:location>  <END> p <START:location>  <END> i <START:location>  <END>
+<START:location>  <END> A <START:location>  <END> m <START:location>  <END> a <START:location>  <END> r <START:location>  <END> n <START:location>  <END> a <START:location>  <END> t <START:location>  <END> h <START:location>  <END>
+<START:location> Jaisalmer <END>
+<START:location>  <END> C <START:location>  <END> h <START:location>  <END> i <START:location>  <END> d <START:location>  <END> a <START:location>  <END> m <START:location>  <END> b <START:location>  <END> a <START:location>  <END> r <START:location>  <END> a <START:location>  <END> m <START:location>  <END>
+<START:location> Kovalam and Ayurveda <END>
+<START:location>  <END> D <START:location>  <END> a <START:location>  <END> r <START:location>  <END> j <START:location>  <END> e <START:location>  <END> e <START:location>  <END> l <START:location>  <END> i <START:location>  <END> n <START:location>  <END> g <START:location>  <END>
+<START:location> Jabalpur <END>
+<START:location>  <END> H <START:location>  <END> a <START:location>  <END> r <START:location>  <END> i <START:location>  <END> d <START:location>  <END> w <START:location>  <END> a <START:location>  <END> r <START:location>  <END>
+Alappuzha <START:location>   <END> Beach <START:location>   <END> is <START:location>   <END> a <START:location>   <END> good <START:location>   <END> place <START:location>   <END> to <START:location>   <END> have <START:location>   <END> fun
+<START:location> Mahabalipuram <END>
+<START:location> Pattadakkal <END>
+<START:location> Coimbatore <END>
+<START:location>  <END> C <START:location>  <END> o <START:location>  <END> t <START:location>  <END> i <START:location>  <END> g <START:location>  <END> a <START:location>  <END> o <START:location>  <END>   <START:location>  <END> W <START:location>  <END> i <START:location>  <END> l <START:location>  <END> d <START:location>  <END>   <START:location>  <END> L <START:location>  <END> i <START:location>  <END> f <START:location>  <END> e <START:location>  <END>   <START:location>  <END> S <START:location>  <END> a <START:location>  <END> n <START:location>  <END> c <START:location>  <END> t <START:location>  <END> u <START:location>  <END> a <START:location>  <END> r <START:location>  <END> y <START:location>  <END>
+<START:location>  <END> G <START:location>  <END> u <START:location>  <END> r <START:location>  <END> g <START:location>  <END> a <START:location>  <END> o <START:location>  <END> n <START:location>  <END>
